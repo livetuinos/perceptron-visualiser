@@ -8,7 +8,7 @@ You can plot the points using left and right mouse click for 🔴/🔵 respectiv
 git clone https://github.com/livetuinos/perceptron-visualiser
 cd perceptron-visualiser
 
-2.Create a virtual environment
+2.Create a virtual environment:
 python -m venv venv
 source venv/bin/activate
 
